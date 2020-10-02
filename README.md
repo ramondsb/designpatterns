@@ -12,7 +12,7 @@ Implementation of the GoF's Design patterns
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Composite
-- [ ] Decorator
+- [x] Decorator
 - [ ] Facade
 - [ ] Flyweight
 - [ ] Proxy
